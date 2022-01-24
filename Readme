@@ -1,1 +1,3 @@
-#Cartoonify-image
+# Cartoonify Image
+ OpenCV is a cross-platform library used for Computer Vision. It includes applications like video and image capturing and processing. It is majorly used in image transformation, object detection, face recognition, and many other stunning applications.
+ This is a python application that transforms an image into its cartoon using OpenCV.
